@@ -301,13 +301,10 @@ img {
 .about__img {
   justify-self: center;
 }
-
 .about__img img {
   width: 200px;
-
-  border-radius: 0.5rem;
+  border-radius: 50%;
 }
-
 /* ===== SKILLS =====*/
 .skills__container {
   row-gap: 2rem;
